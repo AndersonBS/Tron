@@ -1,0 +1,16 @@
+#include "humanplayer.h"
+
+HumanPlayer::HumanPlayer() {
+    
+}
+
+void Player::setArenaSize(QSize arenaSize) {
+    
+}
+void Player::setPlayerSize(QSize playerSize) {
+    
+}
+
+QSize Player::size() {
+    return _playerSize;
+}

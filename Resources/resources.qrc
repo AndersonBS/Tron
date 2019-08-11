@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Video/BlueBike.jpg</file>
+        <file>Video/menuBackground.jpg</file>
+        <file>Video/nitro.png</file>
+        <file>Video/RadioChecked.png</file>
+        <file>Video/RadioUnchecked.png</file>
+        <file>Video/RedBike.jpg</file>
+        <file>Video/WinnerFlag.png</file>
+        <file>Audio/Menu.mp3</file>
+        <file>Audio/ThemeSong.mp3</file>
+    </qresource>
+</RCC>

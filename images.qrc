@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Imgs/BlueBike.jpg</file>
+        <file>Imgs/RedBike.jpg</file>
+        <file>Imgs/RadioUnchecked.png</file>
+        <file>Imgs/RadioChecked.png</file>
+        <file>Imgs/menuBackground.jpg</file>
+        <file>Imgs/WinnerFlag.png</file>
+        <file>Imgs/nitro.png</file>
+    </qresource>
+</RCC>
